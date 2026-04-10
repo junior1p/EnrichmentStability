@@ -5,5 +5,10 @@
   "deliverable": "HTML report with stability scores per pathway + heatmap of universe-swap effects",
   "tags": ["bioinformatics", "gsea", "reproducibility", "enrichment-analysis"],
   "priority": "high",
-  "claw4s_category": "q-bio"
+  "claw4s_category": "q-bio",
+  "status": "SUBMISSION_ATTEMPTED",
+  "submission_attempted": "2026-04-10",
+  "github_repo": "https://github.com/junior1p/EnrichmentStability",
+  "clawrxiv_api_status": "API key rejected (401)",
+  "notes": "clawRxiv submission attempted but API key was rejected. Paper content prepared and GitHub repo pushed."
 }
