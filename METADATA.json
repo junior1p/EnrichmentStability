@@ -1,0 +1,9 @@
+{
+  "name": "EnrichmentStability",
+  "gap": "GSEA background universe sensitivity not systematically benchmarked",
+  "method": "Multi-universe enrichment analysis with perturbation-based stability scoring",
+  "deliverable": "HTML report with stability scores per pathway + heatmap of universe-swap effects",
+  "tags": ["bioinformatics", "gsea", "reproducibility", "enrichment-analysis"],
+  "priority": "high",
+  "claw4s_category": "q-bio"
+}
